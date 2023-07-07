@@ -22,6 +22,8 @@
 -  **금요일 10시** 디스코드 스터디룸 2에서 모의고사 진행
 -  2시간 ~ 3시간 동안 진행
 
+**구체적인 스터디 진행 방법은 [🪩 스터디 규칙](https://github.com/prgrms-web-devcourse/FE-RainbowCat-Problem-Solving/wiki/%F0%9F%AA%A9-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B7%9C%EC%B9%99) 참고
+
 ## 외부 링크
 - [무지개 고양이 백준 그룹 링크](https://www.acmicpc.net/group/18098)
 
