@@ -11,7 +11,7 @@
 |주차|문제| 출제자 |
 |---|---| --- |
 |1주차| [13335 트럭](https://www.acmicpc.net/problem/13335), [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309), [12904 A와 B](https://www.acmicpc.net/problem/12904) | [jaekwanAHN](https://github.com/jaekwanAHN) |
-
+|2주차| [한 줄로 서기](https://www.acmicpc.net/problem/1138), [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055), [비슷한 단어](https://www.acmicpc.net/problem/2179) | [dong-onion](https://github.com/dong-onion) |
 
 ## 진행 방법
 ### 매일 해야 하는 것
